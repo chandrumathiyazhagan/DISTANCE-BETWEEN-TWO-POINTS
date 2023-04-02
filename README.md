@@ -9,7 +9,7 @@ Import math
 Get lists from the linear equations and assign it to np.array
 ### Step 3: 
 Substitute the values in the distance formula formula
-Substitute the values in the distance formula  ![formula](/formula.jpg)
+Substitute the values in the distance formula  ![image](https://user-images.githubusercontent.com/119393023/229345243-66145e93-a67b-4dc8-96ec-df50ced8b18d.png)
 ### Step 4: 
 Print the distance with two precisions
 ### Step 5: 
